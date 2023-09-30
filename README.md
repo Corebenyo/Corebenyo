@@ -1,5 +1,11 @@
-### Hi there 👋
-
+![image](https://github.com/Corebenyo/Corebenyo/assets/144935305/74b4301a-81a4-47ac-b902-46570ef5edb1)# Hi, I'm Corbyn👋
+# Student Programmer, Cybersecurity
+---------
+## University Projects
+* Managing Software Projects
+  * [Go-to-gocery Project](https://github.com/elyithium/gtg)
+* User Centred Design
+* IT Security
 <!--
 **Corebenyo/Corebenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
