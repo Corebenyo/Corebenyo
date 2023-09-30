@@ -1,4 +1,4 @@
-![image](https://github.com/Corebenyo/Corebenyo/assets/144935305/74b4301a-81a4-47ac-b902-46570ef5edb1)# Hi, I'm Corbyn👋
+# Hi, I'm Corbyn👋
 # Student Programmer, Cybersecurity
 ---------
 ## University Projects
