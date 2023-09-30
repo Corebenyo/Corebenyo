@@ -1,10 +1,8 @@
-# Hi, I'm Corbyn👋
-# Student Programmer, Cybersecurity
----------
+# Hi, I'm Corbyn👋<br> [Student](https://github.com/Corebenyo), [Programmer](https://github.com/Corebenyo), [Cybersecurity](https://github.com/Corebenyo)
 ## University Projects
 * Managing Software Projects
-  * [Go-to-gocery Project](https://github.com/elyithium/gtg)
-* User Centred Design
+  * [Go-to-grocery Project](https://github.com/elyithium/gtg)
+* User-centred design
 * IT Security
 <!--
 **Corebenyo/Corebenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
