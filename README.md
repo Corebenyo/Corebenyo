@@ -2,8 +2,9 @@
 ## University Projects
 * Managing Software Projects
   * [Go-to-grocery Project](https://github.com/elyithium/gtg)
-* User-centred design
+* User-centred Design
 * IT Security
+* Cloud Computing Architecture
 <!--
 **Corebenyo/Corebenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
